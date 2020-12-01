@@ -4,7 +4,7 @@
     android:id="@+id/view"
     android:layout_width="match_parent"
     android:layout_height="200dp"
-    tools:context=".ui.main.MainActivity">
+    tools:context=".MainActivity">
 
     <Button
         android:id="@+id/start"
